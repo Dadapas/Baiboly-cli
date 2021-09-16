@@ -1,0 +1,37 @@
+#!/usr/local/bin/node
+'use strict';
+
+const path 			= require('path');
+const fs     		= require('fs');
+const { Verse }	= require('./bible');
+/*
+process.on('exit', (code) => {
+  console.log('Process exit event with code: ', code);
+});
+
+let strbible = fs.readFileSync(__dirname+"/baiboly.json", 'utf8');
+
+let anarBoky = fs.readFileSync(__dirname+"/mapBoky.json", 'utf8');
+*/
+
+/*let texts = JSON.parse(strbible);*/
+
+let argvs = process.argv;
+/*console.log(texts.body);*/
+
+if (argvs != undefined && argvs[2] == '--teny' ) {
+
+		let andininy = argvs.filter((a, i) => i>=2).join(' ');
+		andininy = andininy.replace('--teny ', '');
+
+		//console.log(new Verse(andininy).readCommande())
+		console.log(new Verse(andininy).books());
+} else {
+
+		console.log(new Verse('gen 5:25').allBooks());
+}
+
+/*
+process.argv.forEach((val, index) => {
+  console.log(`${index}: ${val}`);
+});*/

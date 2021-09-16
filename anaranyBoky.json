@@ -1,0 +1,398 @@
+[
+    {
+        "id": "GEN",
+        "name": "Genesisy",
+        "order": 1,
+        "code": "Gen."
+    },
+    {
+        "id": "EXO",
+        "name": "Eksodosy",
+        "order": 2,
+        "code": "Eks."
+    },
+    {
+        "id": "LEV",
+        "name": "Levitikosy",
+        "order": 3,
+        "code": "Lev."
+    },
+    {
+        "id": "NUM",
+        "name": "Nomery",
+        "order": 4,
+        "code": "Nom."
+    },
+    {
+        "id": "DEU",
+        "name": "Deotornomia",
+        "order": 5,
+        "code": "Deot."
+    },
+    {
+        "id": "JOS",
+        "name": "Josoa",
+        "order": 6,
+        "code": "Jos."
+    },
+    {
+        "id": "JDG",
+        "name": "Mpitsara",
+        "order": 7,
+        "code": "Mpi."
+    },
+    {
+        "id": "RUT",
+        "name": "Rota",
+        "order": 8,
+        "code": "Rota."
+    },
+    {
+        "id": "1SA",
+        "name": "Samoela I",
+        "order": 9,
+        "code": "I Sam."
+    },
+    {
+        "id": "2SA",
+        "name": "Samoela II",
+        "order": 10,
+        "code": "II Sam"
+    },
+    {
+        "id": "1KI",
+        "name": "Mpanjaka I",
+        "order": 11,
+        "code": "I Mpa."
+    },
+    {
+        "id": "2KI",
+        "name": "Mpanjaka II",
+        "order": 12,
+        "code": "II Mpa."
+    },
+    {
+        "id": "1CI",
+        "name": "Tantara I",
+        "order": 13,
+        "code": "I Tan."
+    },
+    {
+        "id": "2CI",
+        "name": "Tantara II",
+        "order": 14,
+        "code": "II Tan"
+    },
+    {
+        "id": "EZR",
+        "name": "Ezra",
+        "order": 15,
+        "code": "Ezra"
+    },
+    {
+        "id": "NEH",
+        "name": "Nehemia",
+        "order": 16,
+        "code": "Neh."
+    },
+    {
+        "id": "EST",
+        "name": "Estera",
+        "order": 17,
+        "code": "Est."
+    },
+    {
+        "id": "JOB",
+        "name": "Joba",
+        "order": 18,
+        "code": "Job."
+    },
+    {
+        "id": "PSA",
+        "name": "Salamo",
+        "order": 19,
+        "code": "Sal."
+    },
+    {
+        "id": "PRO",
+        "name": "Ohabolana",
+        "order": 20,
+        "code": "Ohab."
+    },
+    {
+        "id": "ECC",
+        "name": "Mpitoriteny",
+        "order": 21,
+        "code": "Mpit."
+    },
+    {
+        "id": "SON",
+        "name": "Tonon-kiran'i Solomona",
+        "order": 22,
+        "code": ""
+    },
+    {
+        "id": "ISA",
+        "name": "Isaia",
+        "order": 23,
+        "code": "Isa."
+    },
+    {
+        "id": "JER",
+        "name": "Jeremia",
+        "order": 24,
+        "code": "Jer."
+    },
+    {
+        "id": "LAM",
+        "name": "Fitomaniana",
+        "order": 25,
+        "code": "Fit."
+    },
+    {
+        "id": "EZE",
+        "name": "Ezekiela",
+        "order": 26,
+        "code": "Ezek."
+    },
+    {
+        "id": "DAN",
+        "name": "Daniela",
+        "order": 27,
+        "code": "Dan."
+    },
+    {
+        "id": "HOS",
+        "name": "Hosea",
+        "order": 28,
+        "code": "Hos."
+    },
+    {
+        "id": "JOE",
+        "name": "Joela",
+        "order": 29,
+        "code": "Joe."
+    },
+    {
+        "id": "AMO",
+        "name": "Amosa",
+        "order": 30,
+        "code": "Amo."
+    },
+    {
+        "id": "OBA",
+        "name": "Obadia",
+        "order": 31,
+        "code": "Obad."
+    },
+    {
+        "id": "JON",
+        "name": "Jona",
+        "order": 32,
+        "code": "Jona"
+    },
+    {
+        "id": "MIC",
+        "name": "Mika",
+        "order": 33,
+        "code": "Mika"
+    },
+    {
+        "id": "NAH",
+        "name": "Nahoma",
+        "order": 34,
+        "code": "Nah."
+    },
+    {
+        "id": "HAB",
+        "name": "Habakoka",
+        "order": 35,
+        "code": "Hab."
+    },
+    {
+        "id": "ZEP",
+        "name": "Zefania",
+        "order": 36,
+        "code": "Zef."
+    },
+    {
+        "id": "HAG",
+        "name": "Hagay",
+        "order": 37,
+        "code": "Hag."
+    },
+    {
+        "id": "ZEC",
+        "name": "Zakaria",
+        "order": 38,
+        "code": "Zak."
+    },
+    {
+        "id": "MAL",
+        "name": "Malakia",
+        "order": 39,
+        "code": "Malak."
+    },
+    {
+        "id": "MAT",
+        "name": "Matio",
+        "order": 40,
+        "code": "Mat."
+    },
+    {
+        "id": "MAR",
+        "name": "Marka",
+        "order": 41,
+        "code": "Mar."
+    },
+    {
+        "id": "LUK",
+        "name": "Lioka",
+        "order": 42,
+        "code": "Lio."
+    },
+    {
+        "id": "JOH",
+        "name": "Jaona",
+        "order": 43,
+        "code": "Jao."
+    },
+    {
+        "id": "ACT",
+        "name": "Asan'ny Apositoly",
+        "order": 44,
+        "code": "Asa."
+    },
+    {
+        "id": "ROM",
+        "name": "Romana",
+        "order": 45,
+        "code": "Rom."
+    },
+    {
+        "id": "1CO",
+        "name": "Korintiana I",
+        "order": 46,
+        "code": "I Kor"
+    },
+    {
+        "id": "2CO",
+        "name": "Korintiana II",
+        "order": 47,
+        "code": "II Kor"
+    },
+    {
+        "id": "GAL",
+        "name": "Galatiana",
+        "order": 48,
+        "code": "Gal."
+    },
+    {
+        "id": "EPH",
+        "name": "Efesiana",
+        "order": 49,
+        "code": "Ef."
+    },
+    {
+        "id": "PHI",
+        "name": "Filipiana",
+        "order": 50,
+        "code": "Fil."
+    },
+    {
+        "id": "COL",
+        "name": "Kolosiana",
+        "order": 51,
+        "code": "Kol."
+    },
+    {
+        "id": "1TH",
+        "name": "Tesaloniana I",
+        "order": 52,
+        "code": "I Tes."
+    },
+    {
+        "id": "2TH",
+        "name": "Tesaloniana II",
+        "order": 53,
+        "code": "II Tes."
+    },
+    {
+        "id": "1TI",
+        "name": "Timoty I",
+        "order": 54,
+        "code": "I Tim."
+    },
+    {
+        "id": "2TI",
+        "name": "Timoty II",
+        "order": 55,
+        "code": "II Tim."
+    },
+    {
+        "id": "TIT",
+        "name": "Titosy",
+        "order": 56,
+        "code": "Tit. Tit."
+    },
+    {
+        "id": "PHM",
+        "name": "Filemona",
+        "order": 57,
+        "code": "Fil."
+    },
+    {
+        "id": "HEB",
+        "name": "Hebreo",
+        "order": 58,
+        "code": "Heb."
+    },
+    {
+        "id": "JAM",
+        "name": "Jakoba",
+        "order": 59,
+        "code": "Jak."
+    },
+    {
+        "id": "1PE",
+        "name": "Petera I",
+        "order": 60,
+        "code": "I Pet."
+    },
+    {
+        "id": "2PE",
+        "name": "Petera II",
+        "order": 61,
+        "code": "II Pet."
+    },
+    {
+        "id": "1JO",
+        "name": "Jaona I",
+        "order": 62,
+        "code": "I Jao."
+    },
+    {
+        "id": "2JO",
+        "name": "Jaona II",
+        "order": 63,
+        "code": "II Jao."
+    },
+    {
+        "id": "3JO",
+        "name": "Jaona III",
+        "order": 64,
+        "code": "III Jao."
+    },
+    {
+        "id": "JUD",
+        "name": "Joda",
+        "order": 65,
+        "code": "Joda"
+    },
+    {
+        "id": "REV",
+        "name": "Apokalipsy",
+        "order": 66,
+        "code": "Apok."
+    }
+]
