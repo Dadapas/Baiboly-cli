@@ -6,8 +6,15 @@ It is used for only linux at the moment.
 Nodejs need to be installed first. For instructions <a href="https://nodejs.org" alt="licence">install</a> <br>
 <b> Step 1</b>
 * Copy or clone  the repository
+* Give permission for the binary `chmod +x /path/to/baiboly`
 
 <b> Step 2 (alternatives)</b> 
+Add to path
+* Edit `~/.bashrc` file
+* In the end of file `~/.bashrc` add
+```bash
+PATH="$PATH:/path/to/baiboly/bin/"
+```
 
 ### Usages
 
